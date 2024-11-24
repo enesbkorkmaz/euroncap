@@ -1,0 +1,775 @@
+Origin;Make;Model;Year;Adult Occupant;Child Occupant;Vulnerable Road Users;Safety Assist;Class;Overall Rating
+Germany;Audi;Q6 e-tron;2024;91;92;81;80;Large SUV;5
+Germany;Audi;Q4 e-tron;2021;93;89;66;80;Large SUV;5
+Germany;Audi;A3;2020;89;81;68;73;Small Family Car;5
+Germany;Audi;Q8;2019;93;87;71;73;Large SUV;5
+Germany;Audi;Q7;2019;92;86;71;72;Large SUV;5
+Germany;Audi;A1;2019;95;85;73;80;City and Supermini;5
+Germany;Audi;e-tron(Q8 e-tron);2019;91;85;71;76;Large SUV;5
+Germany;Audi;A7;2018;93;85;81;76;Executive Car;5
+Germany;Audi;Q3;2018;95;86;76;85;Small SUV;5
+Germany;Audi;A6;2018;93;85;81;76;Executive Car;5
+Germany;Audi;Q5;2017;93;86;73;58;Large SUV;5
+Germany;Audi;Q2;2016;93;86;70;60;Small SUV;5
+Germany;Audi;A4;2015;89;87;75;75;Large Family Car;5
+Germany;Audi;Q7;2015;94;88;70;76;Large SUV;5
+Germany;Audi;TT;2015;81;68;82;64;Roadster Sport;5
+Germany;Mercedes-Benz;E-Class;2024;92;90;84;87;Executive Car;5
+China;ZEEKR;"""001";2024;89;88;84;83;Executive Car;5
+China;ZEEKR;X;2024;91;90;84;83;Small SUV;5
+Germany;Volkswagen;Passat;2024;93;87;82;80;Large Family Car;5
+Czech Republic;Skoda;Superb;2024;93;87;82;80;Large Family Car;5
+Japan;Honda;CR-V (SP);2024;85;86;80;79;Small SUV;5
+Japan;Toyota;C-HR;2024;85;86;86;79;Small SUV;5
+Germany;Volkswagen;Tiguan;2024;83;88;84;78;Small SUV;5
+Czech Republic;Skoda;Kodiaq;2024;89;83;82;78;Large SUV;5
+China;NIO;EL6;2024;93;85;78;76;Large SUV;5
+China;XPENG;G6;2024;88;85;81;75;Small SUV;5
+USA;Ford;Explorer;2024;89;86;80;72;Small SUV;5
+Japan;Subaru;Crosstrek;2024;83;90;85;72;Small Family Car;5
+Japan;Subaru;Impreza;2024;83;90;84;72;Small Family Car;5
+France;Renault;Captur II;2024;76;80;76;69;Small SUV;4
+France;Renault;Symbioz;2024;73;80;76;69;Small SUV;4
+Japan;Honda;CR-V;2024;85;86;76;67;Small SUV;4
+Romania;Dacia;Duster;2024;70;84;60;57;Small SUV;3
+Germany;Audi;A3 Sportback e-tron;2014;82;78;66;68;Small Family Car;5
+Germany;Audi;A3;2012;95;87;74;86;Small Family Car;5
+Germany;Audi;Q3;2011;94;85;52;86;Small SUV;5
+Germany;Audi;A6;2011;91;83;41;86;Executive Car;5
+Germany;Audi;A1;2010;90;79;49;86;City and Supermini;5
+Germany;Audi;A4;2009;93;84;39;71;Large Family Car;5
+Germany;Audi;Q5;2009;92;84;32;71;Small SUV;5
+Germany;Audi;A4;2008;NA;NA;NA;NA;Large Family Car;NA
+Germany;Audi;Q7;2006;NA;NA;NA;NA;Large SUV;NA
+Germany;Audi ;A6;2004;NA;NA;NA;NA;Executive Car;NA
+Germany;Audi ;A3;2003;NA;NA;NA;NA;Small Family Car;NA
+Germany;Audi ;TT;2003;NA;NA;NA;NA;Roadster Sport;NA
+Germany;Audi ;A2;2002;NA;NA;NA;NA;City and Supermini;NA
+Germany;Audi;A4;2001;NA;NA;NA;NA;Large Family Car;NA
+Germany;Audi;A6;1998;NA;NA;NA;NA;Executive Car;NA
+Germany;Audi;A3;1998;NA;NA;NA;NA;Small Family Car;NA
+Germany;Audi;A4;1997;NA;NA;NA;NA;Large Family Car;NA
+China;Aiways;U5;2019;73;70;45;55;Small SUV;3
+Italy;Alfa Romeo;Tonale;2022;83;85;67;85;Small SUV;5
+Italy;Alfa Romeo;Giuletta;2017;72;56;59;25;Small Family Car;3
+Italy;Alfa Romeo;Stelvio;2017;97;84;71;60;Large SUV;5
+Italy;Alfa Romeo;Giulia;2016;98;81;69;60;Large Family Car;5
+Italy;Alfa Romeo;Giuletta;2010;97;85;63;86;Small Family Car;5
+Italy;Alfa Romeo;MiTo;2008;NA;NA;NA;NA;City and Supermini;NA
+Italy;Alfa Romeo;159;2006;NA;NA;NA;NA;Large Family Car;NA
+Italy;Alfa Romeo;147;2001;NA;NA;NA;NA;Small Family Car;NA
+Germany;BMW;5 Series;2023;89;85;86;78;Large Family Car;5
+Germany;BMW;X2;2024;85;88;76;92;Small SUV;5
+Germany;BMW;2 Series Active Tourer;2022;88;81;79;92;Small Family Car;5
+Germany;BMW;X1;2022;86;89;76;92;Small SUV;5
+Germany;BMW;i4;2022;87;87;71;64;Large Family Car;4
+Germany;BMW;2 Series Coup�;2022;82;81;67;64;Small Family Car;4
+Germany;BMW;iX;2021;91;87;73;81;Large SUV;5
+Germany;BMW;4 Series Convertible;2019;96;80;93;72;Large Family Car;5
+Germany;BMW;4 Series Coupe;2019;97;83;93;72;Large Family Car;5
+Germany;BMW;2 Series Gran Coupe;2019;94;87;76;72;Small Family Car;5
+Germany;BMW;1 Series;2019;83;87;76;72;Small Family Car;5
+Germany;BMW;3 series;2019;97;87;87;76;Large Family Car;5
+Germany;BMW;Z4 ;2019;97;87;91;76;Roadster Sport;5
+Germany;BMW;X5;2018;89;86;75;75;Large SUV;5
+Germany;BMW;6 Series GT;2017;86;85;81;59;Executive Car;5
+Germany;BMW;X3;2017;93;84;70;58;Small SUV;5
+Germany;BMW;5 Series;2017;91;85;81;59;Executive Car;5
+Germany;BMW;X1;2015;90;87;74;77;Small SUV;5
+Germany;BMW;Z4 ;2015;69;61;91;46;Roadster Sport;3
+Germany;BMW;2 Series Active Tourer;2014;84;85;60;70;Small Family Car;5
+Germany;BMW;i3;2013;86;81;57;55;Small Family Car;4
+Germany;BMW;3 series;2012;95;84;78;86;Large Family Car;5
+Germany;BMW;1 Series;2012;91;83;63;86;Small Family Car;5
+Germany;BMW;X1;2012;87;86;64;71;Small SUV;5
+Germany;BMW;X3;2011;88;83;53;71;Small SUV;5
+Germany;BMW;5 Series;2010;95;83;78;100;Executive Car;5
+Germany;BMW;X3 ;2008;NA;NA;NA;NA;Small SUV;NA
+Germany;BMW;3 series;2005;NA;NA;NA;NA;Large Family Car;NA
+Germany;BMW;1 Series;2004;NA;NA;NA;NA;Small Family Car;NA
+Germany;BMW;5 Series;2004;NA;NA;NA;NA;Executive Car;NA
+Germany;BMW;Z4 ;2004;NA;NA;NA;NA;Roadster Sport;NA
+Germany;BMW;X5;2003;NA;NA;NA;NA;Large SUV;NA
+Germany;BMW;3 series;2001;NA;NA;NA;NA;Large Family Car;NA
+Germany;BMW;5 Series;1998;NA;NA;NA;NA;Executive Car;NA
+Germany;BMW;3 series;1997;NA;NA;NA;NA;Large Family Car;NA
+China;BYD;SEAL-U;2023;90;86;83;77;Small SUV;5
+China;BYD;TANG;2023;87;87;80;73;Large SUV;5
+China;BYD;DOLPHIN;2023;89;87;85;79;Small Family Car;5
+China;BYD;SEAL;2023;89;87;82;76;Large Family Car;5
+China;BYD;ATTO 3;2022;91;89;69;74;Small SUV;5
+China;CHERY;OMODA5;2022;87;87;68;88;Small SUV;5
+USA;Chevrolet;Trax;2013;94;85;64;81;Small Family Car;5
+USA;Chevrolet;Malibu;2011;94;83;57;71;Large Family Car;5
+USA;Chevrolet;Captiva;2011;88;82;48;71;Small SUV;5
+USA;Chevrolet;Aveo;2011;95;87;54;93;City and Supermini;5
+USA;Chevrolet;Orlando;2011;95;79;49;71;Small MPV;5
+USA;Chevrolet;Volt;2011;85;78;41;86;Small Family Car;5
+USA;Chevrolet;Cruze;2009;96;84;34;71;Small Family Car;5
+USA;Chevrolet;Spark;2009;81;78;43;43;City and Supermini;4
+USA;Chrysler;Voyager;2007;NA;NA;NA;NA;Large MPV;NA
+USA;Chrysler;PT Cruiser;2002;NA;NA;NA;NA;Small MPV;NA
+USA;Chrysler;Voyager;1999;NA;NA;NA;NA;Large MPV;NA
+France;Citro�n;C5 X;2022;82;87;69;66;Executive Car;4
+France;Citro�n;C4;2021;80;83;57;63;Small Family Car;4
+France;Citro�n;C5 Aircross;2019;87;86;58;75;Small SUV;4
+France;Citro�n;C5 Aircross (SP);2019;89;86;67;82;Small SUV;5
+France;Citro�n;Berlingo;2018;91;81;58;68;Small MPV;4
+France;Citro�n;e-Mehari;2017;74;78;48;25;Small Family Car;3
+France;Citro�n;C3 Aircross;2017;85;82;64;60;Small MPV;5
+France;Citro�n;C3;2017;88;83;59;58;City and Supermini;4
+France;Citro�n;Spacetourer;2015;87;91;64;78;Business and Family Van;5
+France;Citro�n;C4 CACTUS;2014;82;79;80;56;Small Family Car;4
+France;Citro�n;Berlingo;2014;56;74;63;48;Small MPV;3
+France;Citro�n;C-Elys�e;2014;71;75;54;33;Small Family Car;3
+France;Citro�n;C1;2014;80;80;62;56;City and Supermini;4
+France;Citro�n;C4 Picasso;2013;86;88;68;81;Small MPV;5
+France;Citro�n;C1;2012;68;73;53;71;City and Supermini;3
+France;Citro�n;Jumpy;2012;59;86;26;26;Business and Family Van;3
+France;Citro�n;DS5;2011;89;83;40;97;Large Family Car;5
+France;Citro�n;DS4;2011;90;80;43;97;Small Family Car;5
+France;Citro�n;C-ZERO;2011;73;78;48;86;City and Supermini;4
+France;Citro�n;C4;2010;90;85;43;97;Small Family Car;5
+France;Citro�n;Nemo;2010;59;74;55;29;Small MPV;3
+France;Citro�n;C4 Picasso;2009;87;78;46;89;Small MPV;5
+France;Citro�n;C5;2009;81;77;32;83;Large Family Car;5
+France;Citro�n;DS3;2009;87;71;35;83;City and Supermini;5
+France;Citro�n;C3;2009;83;74;33;40;City and Supermini;4
+France;Citro�n;C3 Picasso;2009;81;76;43;40;Small MPV;4
+Spain;Cupra;Born;2022;93;89;73;80;Small Family Car;5
+Spain;Cupra ;Formentor;2021;93;88;68;80;Small SUV;5
+Spain;Cupra;Leon;2020;91;88;71;80;Small Family Car;5
+Romania;Dacia;Duster;2024;70;84;60;57;Small SUV;3
+Romania;Dacia;Jogger;2021;70;69;41;39;City and Supermini;1
+Romania;Dacia;Spring;2021;49;56;39;32;City and Supermini;1
+Romania;Dacia;Logan;2021;70;72;41;42;Small Family Car;2
+Romania;Dacia;Sandero Stepway;2021;70;72;41;42;City and Supermini;2
+Romania;Dacia;Duster;2017;71;66;56;37;Small SUV;3
+Romania;Dacia;Logan MCV;2014;57;75;55;38;Small MPV;3
+Romania;Dacia;Sandero;2013;80;79;57;55;City and Supermini;4
+Romania;Dacia;Lodgy;2012;72;77;44;29;Small MPV;3
+Romania;Dacia;Duster;2011;74;78;28;29;Small SUV;3
+Romania;Dacia;Sandero;2008;NA;NA;NA;NA;City and Supermini;NA
+Romania;Dacia;Logan;2005;NA;NA;NA;NA;Small Family Car;NA
+France;DS;9;2022;79;86;67;67;Large Family Car;4
+France;DS;4;2022;85;86;74;65;Small Family Car;4
+France;DS;4(SPP);2022;85;86;74;82;Small Family Car;5
+France;DS;3 Crossback;2019;87;86;54;63;Small SUV;4
+France;DS;3 Crossback (SP);2019;96;86;64;76;Small SUV;5
+France;DS;3;2017;69;37;55;29;City and Supermini;3
+France;DS;7 Crossback;2017;91;87;73;76;Small SUV;5
+Italy;Fiat;500e;2021;76;80;67;67;City and Supermini;4
+Italy;Fiat;Panda;2018;45;16;47;7;City and Supermini;0
+Italy;Fiat;Punto;2017;51;43;52;0;Small Family Car;0
+Italy;Fiat;Doblo;2017;75;46;57;25;Small MPV;3
+Italy;Fiat;500;2017;66;49;53;27;City and Supermini;3
+Italy;Fiat;Tipo;2016;82;60;62;25;Small Family Car;3
+Italy;Fiat;Tipo(SP);2016;82;60;62;57;Small Family Car;4
+Italy;Fiat;Panda Cross;2015;70;77;50;46;City and Supermini;3
+Italy;Fiat;500X;2015;86;85;74;64;Small MPV;4
+Italy;Fiat;Scudo;2012;59;86;26;26;Business and Family Van;3
+Italy;Fiat;500L;2012;94;78;65;71;Small MPV;5
+Italy;Fiat;Panda;2011;82;63;49;43;City and Supermini;4
+Italy;Fiat;Freemont;2011;83;82;50;71;Large MPV;5
+USA;Ford;Tourneo Custom;2024;75;86;77;53;Business and Family Van;3
+USA;Ford;Tourneo Custom (SP);2024;75;86;83;62;Business and Family Van;4
+USA;Ford;Puma;2022;75;84;70;69;City and Supermini;4
+USA;Ford;Ranger;2022;84;90;74;84;Pickup Truck;5
+USA;Ford;Tourneo Connect;2021;84;82;69;79;Small MPV;5
+USA;Ford;Mustang Mach-E;2021;92;86;69;82;Small SUV;5
+USA;Ford;Puma;2019;94;84;77;74;City and Supermini;5
+USA;Ford;Kuga;2019;92;86;82;73;Small SUV;5
+USA;Ford;Mondeo;2019;96;87;70;73;Large Family Car;5
+USA;Ford;Explorer;2019;87;86;61;76;Large SUV;5
+USA;Ford;Focus;2019;96;87;72;75;Small Family Car;5
+USA;Ford;Tourneo Connect;2018;92;79;65;75;Small MPV;4
+USA;Ford;Focus;2018;85;87;72;75;Small Family Car;5
+USA;Ford;C-MAX;2017;76;60;59;29;Small MPV;3
+USA;Ford;Grand C-MAX;2017;76;60;59;29;Small MPV;3
+USA;Ford;Fiesta;2017;87;84;64;60;City and Supermini;5
+USA;Ford;Mustang;2017;72;32;78;61;Roadster Sport;3
+USA;Ford;Ka+;2017;73;61;57;29;City and Supermini;3
+USA;Ford;Edge;2016;85;76;67;89;Large SUV;5
+USA;Ford;Galaxy;2015;87;87;79;71;Large MPV;5
+USA;Ford;S-MAX;2015;87;87;79;71;Large MPV;5
+USA;Ford;Mondeo;2014;86;82;66;66;Large Family Car;5
+USA;Ford;Tourneo Courier;2014;84;84;74;56;City and Supermini;4
+USA;Ford;EcoSport;2013;93;77;58;55;Small Family Car;4
+USA;Ford;Tourneo Connect;2013;94;85;62;70;Small MPV;5
+USA;Ford;Transit;2012;84;90;48;71;Business and Family Van;5
+USA;Ford;Fiesta;2012;91;86;65;71;City and Supermini;5
+USA;Ford;Kuga;2012;94;86;70;100;Small SUV;5
+USA;Ford;B-MAX;2012;92;84;67;71;Small MPV;5
+USA;Ford;Ranger;2012;96;86;81;71;Pickup Truck;5
+USA;Ford;Focus;2012;92;82;72;71;Small Family Car;5
+USA;Ford;C-MAX;2010;92;83;50;71;Small MPV;5
+USA;Ford;Grand C-MAX;2010;96;81;50;71;Small MPV;5
+China;Geely Emgrand;EC7;2011;75;80;42;86;Large Family Car;4
+South Korea;Genesis;GV60;2022;89;87;63;88;Small SUV;5
+South Korea;Genesis;G70;2021;89;87;76;88;Executive Car;5
+South Korea;Genesis;GV70;2021;89;87;64;87;Large SUV;5
+South Korea;Genesis;G80;2021;91;87;77;91;Executive Car;5
+South Korea;Genesis;GV80;2021;91;87;66;88;Large SUV;5
+China;GWM;Wey 03;2022;94;87;73;93;Small SUV;5
+China;GWM;ORA 03;2022;92;83;94;93;Small Family Car;5
+China;GWM;Wey 05;2022;91;87;79;94;Large SUV;5
+Japan;Honda;ZR-V;2023;79;86;81;68;Small SUV;4
+Japan;Honda;Civic;2022;89;87;82;83;Small Family Car;5
+Japan;Honda;HR-V;2022;82;75;72;78;Small SUV;4
+Japan;Honda;e;2020;76;82;62;65;Small Family Car;4
+Japan;Honda;Jazz;2020;87;83;80;76;Small Family Car;5
+Japan;Honda;CR-V;2019;93;83;70;76;Large SUV;5
+Japan;Honda;Civic;2017;92;75;75;88;Small Family Car;5
+Japan;Honda;HR-V;2015;86;79;72;71;Small Family Car;5
+Japan;Honda;JAZZ;2015;93;85;73;71;City and Supermini;5
+Japan;Honda;CR-V;2013;93;74;68;66;Small SUV;5
+Japan;Honda;Civic;2012;94;83;69;86;Small Family Car;5
+Japan;Honda ;CR-Z;2010;93;80;71;86;City and Supermini;5
+Japan;Honda ;Insight Hybrid;2009;90;74;76;86;Small Family Car;5
+Japan;Honda ;Accord;2009;86;79;54;86;Large Family Car;5
+Japan;Honda ;Civic;2009;79;76;67;86;Small Family Car;5
+Japan;Honda ;Jazz;2009;78;79;60;71;City and Supermini;5
+South Korea;Hyundai;KONA;2023;80;83;64;60;Small SUV;4
+South Korea;Hyundai;IONIQ 6;2022;97;87;66;90;Large Family Car;5
+South Korea;Hyundai;i20;2021;76;82;76;67;City and Supermini;4
+South Korea;Hyundai;BAYON;2021;76;82;76;67;Small SUV;4
+South Korea;Hyundai;IONIQ 5;2021;88;86;63;88;Small SUV;5
+South Korea;Hyundai;TUCSON;2021;86;87;66;70;Small SUV;5
+South Korea;Hyundai;i10;2020;69;75;52;59;City and Supermini;3
+South Korea;Hyundai;Santa Fe;2018;94;88;67;76;Large SUV;5
+South Korea;Hyundai;NEXO;2018;94;87;67;80;Large SUV;5
+South Korea;Hyundai;KONA;2017;87;85;62;60;Small SUV;5
+South Korea;Hyundai;i30;2017;88;84;64;68;Small Family Car;5
+South Korea;Hyundai;Ioniq;2016;91;80;70;82;Small Family Car;5
+South Korea;Hyundai;Tucson;2015;86;85;71;71;Small SUV;5
+South Korea;Hyundai;i20;2015;85;73;79;64;City and Supermini;4
+South Korea;Hyundai;i10;2014;79;80;71;56;City and Supermini;4
+South Korea;Hyundai;H-1;2012;55;75;34;43;Business and Family Van;3
+South Korea;Hyundai;Santa Fe;2012;96;89;71;86;Large SUV;5
+South Korea;Hyundai;i30;2012;90;90;67;86;Small Family Car;5
+South Korea;Hyundai;Veloster;2011;96;89;49;71;Small Family Car;5
+South Korea;Hyundai;i40;2011;92;86;43;86;Large Family Car;5
+South Korea;Hyundai ;ix20;2011;89;85;64;71;Small MPV;5
+South Korea;Hyundai;ix35;2010;90;88;54;71;Small SUV;5
+South Korea;Hyundai;i20;2009;88;83;64;86;City and Supermini;5
+Japan;Infiniti;Q30;2015;84;86;91;81;Small Family Car;5
+Japan;Infiniti;Q50;2013;86;85;67;81;Executive Car;5
+Japan;Infiniti;FX;2009;86;77;44;99;Large SUV;5
+Japan;Isuzu;D-Max Crew Cab;2022;86;86;69;83;Pickup Truck;5
+Japan;Isuzu;D-Max;2020;84;86;69;83;Pickup Truck;5
+Japan;Isuzu;D-Max;2012;83;67;51;71;Pickup Truck;4
+UK;Jaguar;I-Pace;2018;91;81;73;81;Executive Car;5
+UK;Jaguar;F-Pace;2017;93;85;80;72;Small SUV;5
+UK;Jaguar;E-Pace;2017;86;87;77;72;Small SUV;5
+UK;Jaguar;XE;2015;92;82;81;82;Large Family Car;5
+UK;Jaguar;XF;2015;92;84;80;83;Executive Car;5
+UK;Jaguar;XF;2011;79;73;62;71;Executive Car;4
+UK;Jaguar;XF;2010;78;65;43;71;Executive Car;4
+USA;Jeep;Avenger;2024;79;70;59;53;Small MPV;3
+USA;Jeep;Grand Cherokee;2022;84;89;81;81;Large SUV;5
+USA;Jeep;Renegade;2019;82;84;55;58;Small SUV;3
+USA;Jeep;Cherokee;2019;80;78;56;69;Small SUV;4
+USA;Jeep;Wrangler;2018;50;69;49;32;Large SUV;1
+USA;Jeep;Compass;2017;90;83;64;59;Small SUV;5
+USA;Jeep;Renegade;2014;87;85;65;74;Small SUV;5
+USA;Jeep;Cherokee;2013;92;79;67;74;Small SUV;5
+USA;Jeep;Compass;2012;61;76;23;43;Small SUV;2
+USA;Jeep;Grand Cherokee;2011;81;69;45;71;Large SUV;4
+South Korea;Kia;EV9;2023;84;88;76;83;Large SUV;5
+South Korea;Kia;Niro;2022;91;84;75;60;Small SUV;4
+South Korea;Kia;Niro(DriveWise);2022;91;84;76;79;Small SUV;5
+South Korea;Kia;Sportage;2022;87;86;66;72;Small SUV;5
+South Korea;Kia;EV6;2022;90;86;64;87;Large Family Car;5
+South Korea;Kia;Sorento;2020;82;85;63;87;Large SUV;5
+South Korea;Kia;Ceed;2019;88;85;52;68;Small Family Car;4
+South Korea;Kia;Ceed (SP);2019;88;85;68;73;Small Family Car;5
+South Korea;Kia;Stinger;2017;93;81;78;82;Executive Car;5
+South Korea;Kia;Stonic;2017;85;84;62;25;Small Family Car;3
+South Korea;Kia;Stonic (SP);2017;93;84;71;59;Small Family Car;5
+South Korea;Kia;Picanto;2017;79;64;54;25;City and Supermini;3
+South Korea;Kia ;Picanto (SP);2017;87;64;54;47;City and Supermini;4
+South Korea;Kia ;Rio;2017;85;84;62;25;Small Family Car;3
+South Korea;Kia ;Rio (SP);2017;93;84;71;59;Small Family Car;5
+South Korea;Kia ;Niro;2016;83;80;57;59;Small Family Car;4
+South Korea;Kia ;Niro (SP);2016;91;80;70;81;Small Family Car;5
+South Korea;Kia ;Optima;2015;89;86;67;71;Large Family Car;5
+South Korea;Kia ;Sportage;2015;90;83;66;71;Small SUV;5
+South Korea;Kia ;Sorento;2014;90;83;67;71;Large SUV;5
+South Korea;Kia ;Soul;2014;75;82;59;56;Small MPV;4
+South Korea;Kia;Soul EV;2014;84;82;59;56;Small MPV;4
+South Korea;Kia;Carens;2013;94;76;64;81;Small MPV;5
+South Korea;Kia;Ceed;2012;89;88;61;86;Small Family Car;5
+South Korea;Kia;Rio;2011;92;84;46;86;City and Supermini;5
+South Korea;Kia;Picanto;2011;86;83;47;43;City and Supermini;4
+South Korea;Kia;Sportage;2010;93;86;49;86;Small SUV;5
+South Korea;Kia;Venga;2010;89;85;64;71;Small MPV;5
+South Korea;Kia;Sorento;2009;87;84;44;71;Large SUV;5
+South Korea;Kia;Soul;2009;87;86;39;86;Small MPV;5
+Italy;Lancia;Ypsilon;2015;44;79;64;38;City and Supermini;2
+Italy;Lancia;Chrysler Voyager;2011;79;67;47;71;Large MPV;4
+Italy;Lancia;Thema;2011;83;77;59;71;Executive Car;5
+UK;Land Rover;Range Rover Sport;2022;85;85;69;82;Large SUV;5
+UK;Land Rover;Discovery Sport;2022;84;89;71;85;Large SUV;5
+UK;Land Rover;Range Rover;2022;84;87;72;82;Large SUV;5
+UK;Land Rover;Defender;2020;85;85;71;79;Large SUV;5
+UK;Land Rover;Range Rover Evoque;2019;94;87;72;73;Small SUV;5
+UK;Land Rover;Range Rover Velar;2017;93;85;74;72;Small SUV;5
+UK;Land Rover;Range Rover Discovery;2017;90;80;75;73;Large SUV;5
+UK;Land Rover;Discovery Sport;2014;93;83;69;82;Small SUV;5
+UK;Land Rover;Range Rover;2012;91;84;63;86;Large SUV;5
+UK;Land Rover;Range Rover Evoque;2011;86;75;41;86;Small SUV;5
+UK;Land Rover;Freelander;2007;NA;NA;NA;NA;Small SUV;NA
+China;Landwind;CV9;2010;34;45;31;29;Small MPV;2
+Japan;Lexus;RZ;2023;87;87;84;81;Large SUV;5
+Japan;Lexus;RX;2022;90;87;89;91;Large SUV;5
+Japan;Lexus;NX;2022;91;87;83;91;Small SUV;5
+Japan;Lexus;UX;2019;96;85;82;77;Small SUV;5
+Japan;Lexus;ES;2018;91;87;90;77;Large Family Car;5
+Japan;Lexus;RX;2015;91;82;79;77;Large SUV;5
+Japan;Lexus;NX;2014;82;82;69;71;Small SUV;5
+Japan;Lexus;IS;2013;91;85;80;66;Large Family Car;5
+Japan;Lexus;CT200h;2011;94;84;55;86;Small Family Car;5
+Japan;Lexus;IS;2006;NA;NA;NA;NA;Large Family Car;NA
+USA;Lucid;Air;2022;90;91;78;84;Executive Car;5
+China;Lynk & Co;01;2021;96;87;71;81;Small SUV;5
+Italy;Maserati;Ghibli;2013;95;79;74;81;Executive Car;5
+China;MAXUS;MIFA 7 ;2024;92;87;81;75;Large MPV;5
+China;MAXUS;MIFA 9;2022;93;89;73;83;Large MPV;5
+Japan;Mazda;CX-60;2022;88;91;89;76;Large SUV;5
+Japan;Mazda;2 Hybrid;2020;86;81;78;85;Small Family Car;5
+Japan;Mazda;MX-30;2020;91;87;68;73;Small Family Car;5
+Japan;Mazda;CX-30;2019;99;86;80;77;Small SUV;5
+Japan;Mazda;3;2019;98;87;71;73;Small Family Car;5
+Japan;Mazda;6;2018;95;91;66;73;Large Family Car;5
+Japan;Mazda;CX-5;2017;95;80;78;59;Small SUV;5
+Japan;Mazda;MX-5;2015;84;80;93;64;Roadster Sport;4
+Japan;Mazda;CX-30;2015;85;79;84;64;City and Supermini;4
+Japan;Mazda;2;2015;86;78;84;64;City and Supermini;4
+Japan;Mazda;3;2013;93;86;65;81;Small Family Car;5
+Japan;Mazda;6;2013;92;77;66;81;Large Family Car;5
+Japan;Mazda;CX-5;2012;94;87;64;86;Small SUV;5
+Japan;Mazda;CX-7;2010;76;79;43;71;Small SUV;4
+Japan;Mazda;3;2009;86;84;51;71;Small Family Car;5
+Japan;Mazda;6;2009;77;81;49;71;Large Family Car;5
+Germany;Mercedes-Benz;EQE SUV;2023;87;90;80;85;Large SUV;5
+Germany;Mercedes-Benz;GLC;2022;92;90;74;84;Small SUV;5
+Germany;Mercedes-Benz;EQE;2022;95;91;83;81;Executive Car;5
+Germany;Mercedes-Benz;Citan Tourer;2022;91;93;69;90;Small MPV;5
+Germany;Mercedes-Benz;T-Class;2022;91;93;69;90;Small MPV;5
+Germany;Mercedes-Benz;C-Class;2022;93;89;80;82;Large Family Car;5
+Germany;Mercedes-Benz;EQS;2021;96;91;76;80;Executive Car;5
+Germany;Mercedes-Benz;EQB;2019;95;91;78;74;Small SUV;5
+Germany;Mercedes-Benz;GLA;2019;96;90;79;75;Small SUV;5
+Germany;Mercedes-Benz;EQA;2019;97;90;81;75;Small SUV;5
+Germany;Mercedes-Benz;GLB;2019;92;88;78;74;Small SUV;5
+Germany;Mercedes-Benz;CLA;2019;96;91;91;75;Small Family Car;5
+Germany;Mercedes-Benz;EQC;2019;96;90;75;75;Small SUV;5
+Germany;Mercedes-Benz;B-Class;2019;96;90;78;75;Small MPV;5
+Germany;Mercedes-Benz;GLE;2019;91;90;78;78;Large SUV;5
+Germany;Mercedes-Benz;G-Class;2019;90;83;78;72;Large SUV;5
+Germany;Mercedes-Benz;A-Class;2018;96;91;92;75;Small Family Car;5
+Germany;Mercedes-Benz;X-Class;2017;90;87;80;77;Pickup Truck;5
+Germany;Mercedes-Benz;C-Class Cabriolet;2017;89;79;66;53;Large Family Car;5
+Germany;Mercedes-Benz;E-Class;2016;95;90;77;62;Executive Car;5
+Germany;Mercedes-Benz;GLC;2015;95;89;82;71;Small SUV;5
+Germany;Mercedes-Benz;V-Class;2014;93;87;67;85;Business and Family Van;5
+Germany;Mercedes-Benz;GLA;2014;96;88;67;70;Small SUV;5
+Germany;Mercedes-Benz;C-Class;2014;92;84;77;70;Large Family Car;5
+Germany;Mercedes-Benz;Citan Kombi;2013;79;81;56;70;Small MPV;4
+Germany;Mercedes-Benz;CLA;2013;91;75;74;81;Small Family Car;5
+Germany;Mercedes-Benz;A-Class;2012;93;81;67;86;Small Family Car;5
+Germany;Mercedes-Benz;M-Class;2012;96;75;60;86;Large SUV;5
+Germany;Mercedes-Benz;B-Class;2011;97;81;56;86;Small MPV;5
+Germany;Mercedes-Benz;C-Class Coupe;2011;90;79;57;86;Small Family Car;5
+Germany;Mercedes-Benz;E-Class;2010;86;77;59;86;Executive Car;5
+Germany;Mercedes-Benz;GLK;2010;89;76;47;86;Small SUV;5
+Germany;Mercedes-Benz;C-Class;2009;82;70;30;86;Large Family Car;5
+UK;MG;4 Electric;2022;83;80;75;78;Small Family Car;5
+UK;MG;Marvel R;2021;80;75;55;80;Small SUV;4
+UK;MG;HS;2019;92;81;64;76;Small SUV;5
+UK;MG;ZS EV;2019;90;85;64;70;Small Family Car;5
+UK;MG;ZS;2017;71;51;59;29;Small Family Car;3
+UK;MG;3;2014;69;71;59;38;City and Supermini;3
+UK;MG;6;2011;73;71;42;71;Small Family Car;4
+UK;Mini;Countryman;2017;90;80;64;51;Small MPV;5
+UK;Mini;Clubman;2015;90;68;68;67;City and Supermini;4
+UK;Mini;Cooper;2014;79;73;66;56;City and Supermini;4
+UK;Mini;Cooper;2007;NA;NA;NA;NA;City and Supermini;NA
+Japan;Mitsubishi;Eclipse Cross;2017;97;78;80;71;Small SUV;5
+Japan;Mitsubishi;L200;2015;81;84;76;64;Pickup Truck;4
+Japan;Mitsubishi;Outlander PHEV;2013;88;84;64;81;Small SUV;5
+Japan;Mitsubishi;Space Star;2013;90;72;73;55;City and Supermini;4
+France;Mobilize;Limo;2022;80;79;69;71;Small Family Car;4
+China;NIO;EL6;2024;93;85;78;76;Large SUV;5
+China;NIO;EL7;2023;93;85;80;79;Large SUV;5
+China;NIO;ET5;2023;96;85;83;81;Large Family Car;5
+China;NIO;ET7;2022;91;87;73;95;Executive Car;5
+China;NIO;ES8;2021;82;84;72;92;Large SUV;5
+Japan;Nissan;Ariya;2022;86;89;74;93;Small SUV;5
+Japan;Nissan;X-Trail;2021;91;90;70;95;Large SUV;5
+Japan;Nissan;Qashqai;2021;91;91;70;95;Small SUV;5
+Japan;Nissan;Townstar;2021;78;87;67;72;Small MPV;4
+Japan;Nissan;Juke;2019;94;85;81;73;Small SUV;5
+Japan;Nissan;Leaf;2018;93;86;71;71;Small Family Car;5
+Japan;Nissan;Micra;2017;91;79;68;49;City and Supermini;4
+Japan;Nissan;Micra (SP);2017;91;79;79;72;City and Supermini;5
+Japan;Nissan;NP300 Navara;2015;79;78;78;68;Pickup Truck;4
+Japan;Nissan;Pulsar;2014;84;81;75;68;Small Family Car;5
+Japan;Nissan;X-Trail;2014;86;83;75;75;Small SUV;5
+Japan;Nissan;e-NV200 Evalia;2014;75;80;60;38;Small MPV;3
+Japan;Nissan;Qashqai;2014;88;83;69;79;Small Family Car;5
+Japan;Nissan;Note;2013;86;82;58;70;City and Supermini;4
+Japan;Nissan;Evalia;2013;68;81;67;55;Small MPV;3
+Japan;Nissan;Leaf;2012;89;83;65;84;Small Family Car;5
+Japan;Nissan;Juke;2011;87;81;41;71;City and Supermini;5
+Japan;Nissan;Micra;2010;84;79;58;57;City and Supermini;4
+Japan;Nissan;Cube;2010;83;64;56;84;Small MPV;4
+Japan;Nissan ;Navara;2008;NA;NA;NA;NA;Pickup Truck;NA
+Germany;Opel;Astra;2022;80;82;67;66;Small Family Car;4
+Germany;Opel;Mokka;2021;73;75;58;64;Small SUV;4
+Germany;Opel;Corsa;2019;84;86;66;69;City and Supermini;4
+Germany;Opel;Combo;2018;91;81;58;68;Small MPV;4
+Germany;Opel;Karl;2017;61;60;58;25;City and Supermini;3
+Germany;Opel;Crossland X;2017;85;84;62;57;Small MPV;5
+Germany;Opel;Ampera-e;2017;82;73;75;72;Small Family Car;4
+Germany;Opel;Grandland X;2017;84;87;63;60;Small SUV;5
+Germany;Opel;Insignia;2017;93;85;78;69;Large Family Car;5
+Germany;Opel;Astra;2015;86;84;83;75;Small Family Car;5
+Germany;Opel;Karl;2015;74;72;68;64;City and Supermini;4
+Germany;Opel;Vivaro;2015;52;91;53;57;Business and Family Van;3
+Germany;Opel;Corsa;2014;79;77;71;56;City and Supermini;4
+Germany;Opel;Adam;2013;87;72;65;81;City and Supermini;4
+Germany;Opel;Mokka;2012;96;90;67;100;Small Family Car;5
+Germany;Opel;Astra GTC;2011;91;79;50;71;Small Family Car;5
+Germany;Opel;Zafira;2011;94;83;53;86;Small MPV;5
+Germany;Opel;Ampera;2011;85;78;41;86;Small Family Car;5
+Germany;Opel;Meriva;2010;89;77;55;86;Small MPV;5
+Germany;Opel;Astra;2009;95;84;46;71;Small Family Car;5
+Germany;Opel;Insignia;2009;94;79;40;71;Large Family Car;5
+Germany;Opel;Insignia;2008;NA;NA;NA;NA;Large Family Car;NA
+France;Peugeot;408;2022;76;84;78;65;Small Family Car;4
+France;Peugeot;308;2022;76;84;68;65;Small Family Car;4
+France;Peugeot;2008;2019;91;84;62;68;Small SUV;4
+France;Peugeot;2008 (SP);2019;93;84;73;73;Small SUV;5
+France;Peugeot;208;2019;91;86;56;71;City and Supermini;4
+France;Peugeot;508;2018;96;86;71;79;Large Family Car;5
+France;Peugeot;Rifter;2018;91;81;58;68;Small MPV;4
+France;Peugeot;3008/5008;2016;86;85;67;58;Small SUV;5
+France;Peugeot;Traveller;2015;87;91;64;78;Business and Family Van;5
+France;Peugeot;108;2014;80;80;62;56;City and Supermini;4
+France;Peugeot;301;2014;71;75;54;33;Small Family Car;3
+France;Peugeot;Partner;2014;56;74;63;48;Small MPV;3
+France;Peugeot;308;2013;92;79;64;81;Small Family Car;5
+France;Peugeot;2008;2013;88;77;72;70;City and Supermini;5
+France;Peugeot;107;2012;68;73;53;71;City and Supermini;3
+France;Peugeot;Expert;2012;59;86;26;26;Business and Family Van;3
+France;Peugeot;208;2012;88;78;61;83;City and Supermini;5
+France;Peugeot;508;2011;90;87;41;97;Large Family Car;5
+France;Peugeot;iOn;2011;73;78;48;86;City and Supermini;4
+France;Peugeot;308;2009;82;81;53;83;Small Family Car;5
+France;Peugeot;308CC;2009;83;70;33;97;Small Family Car;5
+France;Peugeot;5008;2009;89;79;37;97;Small MPV;5
+France;Peugeot;3008;2009;86;81;31;97;Small Family Car;5
+France;Peugeot;308CC;2008;5-stars;3-stars;2-stars;NA;Small Family Car;NA
+France;Peugeot;308;2007;5-stars;4-stars;3-stars;NA;Small Family Car;NA
+France;Peugeot;207CC;2007;5-stars;NA;2-stars;NA;City and Supermini;NA
+France;Peugeot;207;2006;5-stars;4-stars;3-stars;NA;City and Supermini;NA
+France;Peugeot;407 Coupe;2005;5-stars;4-stars;2-stars;NA;Large Family Car;NA
+France;Peugeot;1007;2005;5-stars;3-stars;2-stars;NA;City and Supermini;NA
+France;Peugeot;407;2004;5-stars;4-stars;2-stars;NA;Large Family Car;NA
+France;Peugeot;307CC;2003;4-stars;NA;2-stars;NA;Small Family Car;NA
+France;Peugeot;807;2003;5-stars;NA;1-star;NA;Large MPV;NA
+France;Peugeot;807;2002;4-stars;NA;1-star;NA;Large MPV;NA
+France;Peugeot;607;2002;4-stars;NA;1-star;NA;Executive Car;NA
+France;Peugeot;307;2001;4-stars;NA;2-stars;NA;Small Family Car;NA
+France;Peugeot;406;2001;3-stars;NA;2-stars;NA;Large Family Car;NA
+France;Peugeot;206;2000;4-stars;NA;2-stars;NA;City and Supermini;NA
+France;Peugeot;806;1999;3-stars;NA;1-star;NA;Large MPV;NA
+France;Peugeot;306;1998;3-stars;NA;1-star;NA;Small Family Car;NA
+France;Peugeot;406;1997;2-stars;NA;2-stars;NA;Large Family Car;NA
+Sweden;Polestar;2;2021;93;89;80;83;Executive Car;5
+Germany;Porsche;Taycan;2019;85;83;70;73;Executive Car;5
+Germany;Porsche;Cayenne;2017;95;80;73;62;Large SUV;5
+Germany;Porsche;Macan;2014;88;87;60;66;Small SUV;5
+Malaysia;Proton;Impian;2002;3-stars;NA;1-star;NA;Large Family Car;NA
+China;Qoros;3 Sedan;2013;95;87;77;81;Small Family Car;5
+France;Renault;Captur II;2024;76;80;76;69;Small SUV;4
+France;Renault;Symbioz;2024;73;80;76;69;Small SUV;4
+France;Renault;Espace;2022;85;83;69;82;Large MPV;5
+France;Renault;Rafale;2022;87;83;69;87;Large MPV;5
+France;Renault;Scenic E-Tech;2022;88;89;77;85;Small Family Car;5
+France;Renault;Austral;2022;88;83;69;87;Large MPV;5
+France;Renault;Megane E-Tech;2022;85;88;65;79;Small Family Car;5
+France;Renault;Zoe;2021;43;52;41;14;City and Supermini;0
+France;Renault;Kangoo;2021;78;87;67;72;Small MPV;4
+France;Renault;Arkana;2019;96;83;75;74;Small SUV;5
+France;Renault;Captur;2019;96;83;75;74;Small SUV;5
+France;Renault;Clio;2019;96;89;72;75;City and Supermini;5
+France;Renault;Koleos;2017;90;79;62;75;Large SUV;5
+France;Renault;Scenic;2016;90;82;67;59;Small MPV;5
+France;Renault;Megane;2015;88;87;71;71;Small Family Car;5
+France;Renault;Talisman;2015;86;84;68;76;Large Family Car;5
+France;Renault;Kadjar;2015;89;81;74;71;Small SUV;5
+France;Renault;Espace;2015;82;89;70;80;Large MPV;5
+France;Renault;Trafic;2015;52;91;53;57;Business and Family Van;3
+France;Renault;Megane Hatch;2014;83;78;60;56;Small Family Car;4
+France;Renault;Twingo;2014;78;81;68;56;City and Supermini;4
+France;Renault;Captur;2013;88;79;61;81;City and Supermini;5
+France;Renault;Zoe;2013;89;80;66;85;City and Supermini;5
+France;Renault;Trafic;2012;58;79;28;14;Business and Family Van;2
+France;Renault;Clio;2012;88;89;66;99;City and Supermini;5
+France;Renault;Fluence ZE;2011;72;83;37;84;Small Family Car;4
+France;Renault;Grand Scenic;2009;91;76;42;99;Small MPV;5
+France;Renault;Megane;2008;5-stars;4-stars;2-stars;NA;Small Family Car;NA
+France;Renault;Koleos;2008;5-stars;4-stars;2-stars;NA;Small SUV;NA
+France;Renault;Kangoo;2008;4-stars;4-stars;2-stars;NA;Small MPV;NA
+France;Renault;Laguna;2007;5-stars;4-stars;2-stars;NA;Large Family Car;NA
+France;Renault;Twingo;2007;4-stars;NA;2-stars;NA;City and Supermini;NA
+France;Renault;Clio;2005;5-stars;4-stars;1-star;NA;City and Supermini;NA
+France;Renault;Vel Satis;2005;5-stars;NA;1-star;NA;Executive Car;NA
+France;Renault;Modus;2004;5-stars;4-stars;1-star;NA;City and Supermini;NA
+France;Renault;Megane CC;2004;5-stars;3-stars;2-stars;NA;Small Family Car;NA
+France;Renault;Kangoo;2003;4-stars;2-stars;1-star;NA;Small MPV;NA
+France;Renault;Scenic;2003;5-stars;3-stars;2-stars;NA;Small MPV;NA
+France;Renault;Espace;2003;5-stars;NA;2-stars;NA;Large MPV;NA
+France;Renault;Laguna;2003;5-stars;NA;2-stars;NA;Large Family Car;NA
+France;Renault;Twingo;2003;3-stars;NA;2-stars;NA;City and Supermini;NA
+France;Renault;Megane;2002;5-stars;NA;2-stars;NA;Small Family Car;NA
+France;Renault;Vel Satis;2002;5-stars;NA;1-star;NA;Executive Car;NA
+France;Renault;Laguna;2001;5-stars;NA;2-stars;NA;Large Family Car;NA
+France;Renault;Scenic;2001;4-stars;NA;2-stars;NA;Small MPV;NA
+France;Renault;Clio;2000;4-stars;NA;2-stars;NA;City and Supermini;NA
+France;Renault;Espace;1999;4-stars;NA;2-stars;NA;Large MPV;NA
+France;Renault;Megane;1999;4-stars;NA;1-star;NA;Small Family Car;NA
+France;Renault;Megane;1998;4-stars;NA;1-star;NA;Small Family Car;NA
+France;Renault;Clio;1997;2-stars;NA;1-star;NA;City and Supermini;NA
+UK;Rover;25;2001;3-stars;NA;2-stars;NA;City and Supermini;NA
+UK;Rover;75;2001;4-stars;NA;2-stars;NA;Large Family Car;NA
+UK;Rover;100;1997;1-star;NA;2-stars;NA;City and Supermini;NA
+Sweden;Saab;9-5;2009;94;80;44;86;Executive Car;5
+Sweden;Saab;9-3 Convertible;2004;5-stars;3-stars;1-star;NA;Large Family Car;NA
+Sweden;Saab;9-5;2003;5-stars;NA;2-stars;NA;Executive Car;NA
+Sweden;Saab;9-3;2002;5-stars;NA;1-star;NA;Large Family Car;NA
+Sweden;Saab;9-3;2000;4-stars;NA;1-star;NA;Large Family Car;NA
+Sweden;Saab;9-5;1998;4-stars;NA;2-stars;NA;Executive Car;NA
+Spain;Seat;Arona;2022;83;83;65;70;Small SUV;5
+Spain;Seat;Ibiza;2022;83;82;66;70;Small Family Car;5
+Spain;Seat;Leon;2020;92;88;71;80;Small Family Car;5
+Spain;Seat;Mii;2019;81;83;46;55;City and Supermini;3
+Spain;Seat;Alhambra;2019;89;78;59;62;Large MPV;4
+Spain;Seat;Tarraco;2019;97;84;79;79;Large SUV;5
+Spain;Seat;Arona;2017;95;80;77;60;Small SUV;5
+Spain;Seat;Ibiza;2017;95;77;76;60;City and Supermini;5
+Spain;Seat;Ateca;2016;93;84;71;60;Small SUV;5
+Spain;Seat;Leon;2012;94;92;70;71;Small Family Car;5
+Spain;Seat;Toledo;2012;94;80;69;71;Small Family Car;5
+Spain;Seat;Ibiza;2011;82;77;59;71;City and Supermini;5
+Spain;Seat;Mii;2011;89;80;46;86;City and Supermini;5
+Spain;Seat;Alhambra;2010;96;80;46;71;Large MPV;5
+Spain;Seat;Exeo;2010;77;81;50;57;Large Family Car;4
+Spain;Seat;Ibiza;2008;5-stars;4-stars;3-stars;NA;City and Supermini;NA
+Spain;Seat;Leon;2005;4-stars;4-stars;3-stars;NA;Small Family Car;NA
+Spain;Seat;Altea;2004;5-stars;4-stars;3-stars;NA;Small MPV;NA
+Spain;Seat;Ibiza;2002;4-stars;NA;2-stars;NA;City and Supermini;NA
+Spain;Seat;Ibiza;2000;3-stars;NA;2-stars;NA;City and Supermini;NA
+Czech Republic;Skoda;Kodiaq;2024;89;83;82;78;Large SUV;5
+Czech Republic;Skoda;Superb;2024;93;87;82;80;Large Family Car;5
+Czech Republic;Skoda;Octavia;2022;89;84;68;81;Large Family Car;5
+Czech Republic;Skoda;Fabia;2021;85;81;70;71;Small Family Car;5
+Czech Republic;Skoda;Enyaq iV;2021;94;89;71;82;Large SUV;5
+Czech Republic;Skoda;Citigo;2019;81;83;46;55;City and Supermini;3
+Czech Republic;Skoda;Octavia;2019;92;88;73;79;Large Family Car;5
+Czech Republic;Skoda;Kamiq;2019;96;85;80;76;Small SUV;5
+Czech Republic;Skoda;Scala;2019;97;87;81;76;Small Family Car;5
+Czech Republic;Skoda;Karoq;2017;93;79;73;58;Small SUV;5
+Czech Republic;Skoda;Kodiaq;2017;92;77;71;54;Large SUV;5
+Czech Republic;Skoda;Superb;2015;86;86;71;76;Large Family Car;5
+Czech Republic;Skoda;Fabia;2014;81;81;69;69;City and Supermini;5
+Czech Republic;Skoda;Octavia;2013;93;86;66;66;Large Family Car;5
+Czech Republic;Skoda;Rapid;2012;94;80;69;71;Small Family Car;5
+Czech Republic;Skoda;Citigo;2011;89;80;46;86;City and Supermini;5
+Czech Republic;Skoda;Yeti;2009;92;78;46;71;Small SUV;5
+Czech Republic;Skoda;Superb;2009;90;81;50;71;Large Family Car;5
+Czech Republic;Skoda;Superb;2008;5-stars;4-stars;2-stars;NA;Large Family Car;NA
+Czech Republic;Skoda;Fabia;2007;4-stars;3-stars;2-stars;NA;City and Supermini;NA
+Czech Republic;Skoda;Roomster;2006;5-stars;4-stars;2-stars;NA;Small MPV;NA
+Czech Republic;Skoda;Octavia;2004;4-stars;4-stars;2-stars;NA;Large Family Car;NA
+Czech Republic;Skoda;Superb;2003;4-stars;NA;NA;NA;Large Family Car;NA
+Czech Republic;Skoda;Octavia;2001;4-stars;NA;2-stars;NA;Large Family Car;NA
+Czech Republic;Skoda;Fabia;2000;4-stars;NA;2-stars;NA;City and Supermini;NA
+Germany;Smart;#3;2023;90;86;84;85;Small Family Car;5
+Germany;Smart;#1;2022;96;89;71;88;Small SUV;5
+Germany;Smart;forfour;2014;78;77;65;56;City and Supermini;4
+Germany;Smart;fortwo;2014;82;80;56;56;City and Supermini;4
+Germany;Smart;fortwo;2007;4-stars;NA;2-stars;NA;City and Supermini;NA
+Germany;Smart;forfour;2005;4-stars;2-stars;1-star;NA;City and Supermini;NA
+Germany;Smart;City Coupe;2000;3-stars;NA;2-stars;NA;City and Supermini;NA
+South Korea;SsangYong�;Korando;2019;88;85;68;74;Small Family Car;5
+South Korea;SsangYong�;Tivoli;2016;82;62;65;43;Small Family Car;4
+South Korea;SsangYong�;XLV;2016;82;62;65;43;Small Family Car;4
+Japan;Subaru;Crosstrek;2024;83;90;85;72;Small Family Car;5
+Japan;Subaru;Impreza;2024;83;90;84;72;Small Family Car;5
+Japan;Subaru;Solterra;2022;88;87;79;91;Small SUV;5
+Japan;Subaru;Outback;2021;88;89;84;95;Large Family Car;5
+Japan;Subaru;Forester;2019;97;81;80;78;Small SUV;5
+Japan;Subaru;Impreza;2017;94;89;82;68;Small Family Car;5
+Japan;Subaru;XV;2017;94;89;94;68;Small Family Car;5
+Japan;Subaru;Levorg;2016;92;83;75;68;Small Family Car;5
+Japan;Subaru;Outback;2014;85;87;70;73;Large Family Car;5
+Japan;Subaru;Forester;2012;91;91;73;86;Small SUV;5
+Japan;Subaru;XV;2012;86;90;64;86;Small Family Car;5
+Japan;Subaru;Legacy;2009;79;73;58;71;Large Family Car;5
+Japan;Subaru;Impreza;2009;84;73;72;57;Small Family Car;4
+Japan;Subaru;Legacy Outback;2002;4-stars;NA;1-star;NA;Large Family Car;NA
+Japan;Suzuki;Swift;2024;67;65;76;62;City and Supermini;3
+Japan;Suzuki;Jimny;2018;73;64;52;50;City and Supermini;3
+Japan;Suzuki;Swift;2017;83;75;69;25;City and Supermini;3
+Japan;Suzuki;Swift (SP);2017;88;75;69;44;City and Supermini;4
+Japan;Suzuki;Ignis;2016;79;79;67;25;City and Supermini;3
+Japan;Suzuki;Ignis (SP);2016;87;79;77;60;City and Supermini;5
+Japan;Suzuki;Baleno;2016;80;73;65;25;City and Supermini;3
+Japan;Suzuki;Baleno (SP);2016;85;73;65;43;City and Supermini;4
+Japan;Suzuki;Vitara;2015;89;85;76;75;City and Supermini;5
+Japan;Suzuki;Celerio;2014;61;74;68;38;City and Supermini;3
+Japan;Suzuki;SX4;2013;92;80;72;81;Small Family Car;5
+Japan;Suzuki;Swift;2010;94;82;62;71;City and Supermini;5
+Japan;Suzuki;Alto;2009;55;46;35;29;City and Supermini;3
+Japan;Suzuki;Splash;2008;4-stars;3-stars;3-stars;NA;City and Supermini;NA
+Japan;Suzuki;Grand Vitara;2007;4-stars;3-stars;3-stars;NA;Small SUV;NA
+Japan;Suzuki;SX4;2006;4-stars;3-stars;3-stars;NA;City and Supermini;NA
+Japan;Suzuki;Swift;2005;4-stars;3-stars;3-stars;NA;City and Supermini;NA
+Japan;Suzuki;Grand Vitara;2002;3-stars;NA;NA;NA;Large SUV;NA
+USA;Tesla;Model S;2022;94;91;85;98;Executive Car;5
+USA;Tesla;Model Y;2022;97;87;82;98;Small SUV;5
+USA;Tesla;Model X;2019;98;81;72;94;Large SUV;5
+USA;Tesla;Model 3;2019;96;86;74;94;Large Family Car;5
+USA;Tesla;Model S;2014;82;77;66;71;Executive Car;5
+Japan;Toyota;C-HR;2024;85;86;86;79;Small SUV;5
+Japan;Toyota;bZ4X;2022;88;87;79;91;Small SUV;5
+Japan;Toyota;Corolla Cross;2022;85;83;87;82;Small SUV;5
+Japan;Toyota;Aygo X;2022;78;78;74;81;City and Supermini;4
+Japan;Toyota;Yaris Cross;2021;86;84;78;81;Small SUV;5
+Japan;Toyota;Mirai;2021;88;85;80;82;Executive Car;5
+Japan;Toyota;Yaris;2020;86;81;78;85;Small Family Car;5
+Japan;Toyota;Corolla;2019;95;84;86;77;Small Family Car;5
+Japan;Toyota;RAV4;2019;93;87;85;77;Small SUV;5
+Japan;Toyota;Proace City;2018;91;81;58;68;Small MPV;4
+Japan;Toyota;Aygo;2017;74;63;64;25;City and Supermini;3
+Japan;Toyota;Aygo (SP);2017;82;63;64;57;City and Supermini;4
+Japan;Toyota;Yaris;2017;83;80;63;57;City and Supermini;5
+Japan;Toyota;C-HR;2017;95;77;76;78;Small SUV;5
+Japan;Toyota;Hilux;2016;85;82;73;25;Pickup Truck;3
+Japan;Toyota;Hilux (SP);2016;93;82;83;63;Pickup Truck;5
+Japan;Toyota;Prius;2016;92;82;77;85;Large Family Car;5
+Japan;Toyota;Proace;2015;87;91;64;78;Business and Family Van;5
+Japan;Toyota;Avensis;2015;93;85;78;81;Large Family Car;5
+Japan;Toyota;Aygo;2014;80;80;62;56;City and Supermini;4
+Japan;Toyota;Corolla;2013;94;82;67;66;Small Family Car;5
+Japan;Toyota;Auris;2013;92;84;68;66;Small Family Car;5
+Japan;Toyota;RAV4;2013;89;82;66;66;Small SUV;5
+Japan;Toyota;Aygo;2012;68;73;53;71;City and Supermini;3
+Japan;Toyota;Yaris;2011;89;81;60;86;City and Supermini;5
+Japan;Toyota;Verso;2010;89;75;69;86;Small MPV;5
+Japan;Toyota;Urban Cruiser;2009;58;71;53;86;Small MPV;3
+Japan;Toyota;Prius;2009;88;82;68;86;Large Family Car;5
+Japan;Toyota;Avensis;2009;90;86;53;86;Large Family Car;5
+Japan;Toyota;iQ;2009;91;71;54;86;City and Supermini;5
+Japan;Toyota;Corolla;2007;5-stars;4-stars;3-stars;NA;Small Family Car;NA
+Japan;Toyota;Auris;2006;5-stars;4-stars;3-stars;NA;Small Family Car;NA
+Japan;Toyota;RAV4;2006;4-stars;4-stars;3-stars;NA;Small SUV;NA
+Japan;Toyota;Yaris;2005;5-stars;3-stars;2-stars;NA;City and Supermini;NA
+Japan;Toyota;Verso;2004;5-stars;4-stars;2-stars;NA;Small MPV;NA
+Japan;Toyota;Prius;2004;5-stars;4-stars;2-stars;NA;Large Family Car;NA
+Japan;Toyota;Previa;2003;4-stars;3-stars;1-star;NA;Large MPV;NA
+Japan;Toyota;Avensis;2003;5-stars;NA;1-star;NA;Large Family Car;NA
+Japan;Toyota;Corolla;2002;4-stars;NA;2-stars;NA;Small Family Car;NA
+Japan;Toyota;Yaris;2000;4-stars;NA;2-stars;NA;City and Supermini;NA
+Japan;Toyota;Picnic;1999;4-stars;NA;2-stars;NA;Large MPV;NA
+Japan;Toyota;Camry;1998;4-stars;NA;2-stars;NA;Executive Car;NA
+Japan;Toyota;Avensis;1998;3-stars;NA;2-stars;NA;Large Family Car;NA
+Japan;Toyota;Corolla;1998;3-stars;NA;2-stars;NA;Small Family Car;NA
+Vietnam;VinFast;VF8;2023;76;89;77;79;Large SUV;4
+Sweden;Volvo;EC40;2022;92;89;70;89;Small SUV;5
+Sweden;Volvo;S60;2018;96;84;74;76;Large Family Car;5
+Sweden;Volvo;V60;2018;96;84;74;76;Large Family Car;5
+Sweden;Volvo;XC40;2018;97;87;71;76;Small SUV;5
+Sweden;Volvo;XC60;2017;98;87;76;95;Large SUV;5
+Sweden;Volvo;S90;2017;95;80;76;93;Executive Car;5
+Sweden;Volvo;V90;2017;95;80;76;93;Executive Car;5
+Sweden;Volvo;XC90;2015;97;87;72;94;Large SUV;5
+Sweden;Volvo;V60 Plug-In Hybrid;2012;93;83;65;100;Large Family Car;5
+Sweden;Volvo;V40;2012;98;75;88;100;Small Family Car;5
+Sweden;Volvo;V60;2012;94;82;64;100;Large Family Car;5
+Sweden;Volvo;C30;2009;91;78;26;71;Small Family Car;5
+Sweden;Volvo;V70;2009;88;84;43;71;Large Family Car;5
+Sweden;Volvo;XC60;2009;94;79;48;86;Small SUV;5
+Sweden;Volvo;XC60;2008;5-stars;4-stars;2-stars;NA;Small SUV;NA
+Sweden;Volvo;V70;2007;5-stars;4-stars;2-stars;NA;Large Family Car;NA
+Sweden;Volvo;C30;2007;5-stars;4-stars;1-star;NA;Small Family Car;NA
+Sweden;Volvo;S40;2004;5-stars;4-stars;2-stars;NA;Large Family Car;NA
+Sweden;Volvo;XC90;2003;5-stars;NA;2-stars;NA;Large SUV;NA
+Sweden;Volvo;S60;2001;4-stars;NA;2-stars;NA;Large Family Car;NA
+Sweden;Volvo;S80;2000;4-stars;NA;2-stars;NA;Executive Car;NA
+Sweden;Volvo;S70;1998;4-stars;NA;2-stars;NA;Executive Car;NA
+Sweden;Volvo;S40;1997;4-stars;NA;2-stars;NA;Large Family Car;NA
+Germany;Volkswagen;Passat;2024;93;87;82;80;Large Family Car;5
+Germany;Volkswagen;Tiguan;2024;83;88;84;78;Small SUV;5
+Germany;Volkswagen;ID.7;2023;95;88;83;80;Large Family Car;5
+Germany;Volkswagen;Amarok;2022;84;90;74;84;Pickup Truck;5
+Germany;Volkswagen;ID.Buzz;2022;92;87;60;90;Large MPV;5
+Germany;Volkswagen;Touran;2022;77;81;62;66;Small MPV;4
+Germany;Volkswagen;Golf;2022;88;87;74;82;Small Family Car;5
+Germany;Volkswagen;Multivan;2022;90;89;69;87;Business and Family Van;5
+Germany;Volkswagen;Polo;2022;94;80;70;70;City and Supermini;5
+Germany;Volkswagen;Taigo;2022;94;84;71;70;Small SUV;5
+Germany;Volkswagen;ID.5;2021;93;89;76;85;Small SUV;5
+Germany;Volkswagen;Caddy;2021;84;82;69;79;Small MPV;5
+Germany;Volkswagen;ID.4;2021;93;89;76;85;Small SUV;5
+Germany;Volkswagen;ID.3;2020;87;89;71;88;Small Family Car;5
+Germany;Volkswagen;Golf;2019;95;89;76;78;Small Family Car;5
+Germany;Volkswagen;up!;2019;81;83;46;55;City and Supermini;3
+Germany;Volkswagen;Sharan;2019;89;78;59;62;Large MPV;4
+Germany;Volkswagen;T-Cross;2019;97;86;81;80;Small MPV;5
+Germany;Volkswagen;Touareg;2018;89;86;72;81;Large SUV;5
+Germany;Volkswagen;Polo;2017;96;85;76;59;City and Supermini;5
+Germany;Volkswagen;T-Roc;2017;96;87;79;71;Small SUV;5
+Germany;Volkswagen;Arteon;2017;96;85;85;82;Executive Car;5
+Germany;Volkswagen;Tiguan;2016;96;84;72;68;Small SUV;5
+Germany;Volkswagen;Caddy;2015;84;78;58;68;Small MPV;4
+Germany;Volkswagen;Touran;2015;88;89;71;76;Small MPV;5
+Germany;Volkswagen;Passat;2014;85;87;66;76;Large Family Car;5
+Germany;Volkswagen;Golf Sportsvan;2014;87;85;62;73;Small MPV;5
+Germany;Volkswagen;Transporter;2013;79;74;32;57;Business and Family Van;4
+Germany;Volkswagen;Golf;2012;94;89;65;71;Small Family Car;5
+Germany;Volkswagen;Beetle;2011;92;90;53;86;Small Family Car;5
+Germany;Volkswagen;up!;2011;89;80;46;86;City and Supermini;5
+Germany;Volkswagen;Golf Cabriolet;2011;96;86;53;71;Small Family Car;5
+Germany;Volkswagen;Jetta;2011;94;86;56;71;Small Family Car;5
+Germany;Volkswagen;Amarok;2010;86;64;47;57;Pickup Truck;4
+Germany;Volkswagen;Passat;2010;91;77;54;71;Large Family Car;5
+Germany;Volkswagen;Sharan;2010;96;80;46;71;Large MPV;5
+Germany;Volkswagen;Scirocco;2009;87;73;53;71;Small Family Car;5
+Germany;Volkswagen;Polo;2009;90;86;41;71;City and Supermini;5
+Germany;Volkswagen;Tiguan;2009;87;79;48;71;Small SUV;5
+Germany;Volkswagen;Golf;2009;97;84;61;71;Small Family Car;5
+Germany;Volkswagen;Golf;2008;5-stars;4-stars;3-stars;NA;Small Family Car;NA
+Germany;Volkswagen;T5;2008;4-stars;4-stars;1-star;NA;Large MPV;NA
+Germany;Volkswagen;Caddy;2007;4-stars;3-stars;2-stars;NA;Small MPV;NA
+Germany;Volkswagen;Tiguan;2007;5-stars;4-stars;2-stars;NA;Small SUV;NA
+Germany;Volkswagen;Eos;2007;4-stars;4-stars;2-stars;NA;Small Family Car;NA
+Germany;Volkswagen;Fox;2005;4-stars;4-stars;2-stars;NA;City and Supermini;NA
+Germany;Volkswagen;Passat;2005;5-stars;4-stars;2-stars;NA;Large Family Car;NA
+Germany;Volkswagen;Touareg;2004;5-stars;4-stars;1-star;NA;Large SUV;NA
+Germany;Volkswagen;Golf;2004;5-stars;4-stars;3-stars;NA;Small Family Car;NA
+Germany;Volkswagen;Touran;2003;5-stars;NA;3-stars;NA;Small MPV;NA
+Germany;Volkswagen;Polo;2002;4-stars;NA;1-star;NA;City and Supermini;NA
+Germany;Volkswagen;Passat;2001;4-stars;NA;2-stars;NA;Large Family Car;NA
+Germany;Volkswagen;Polo;2000;4-stars;NA;2-stars;NA;City and Supermini;NA
+Germany;Volkswagen;Beetle;2000;4-stars;NA;2-stars;NA;Small Family Car;NA
+Germany;Volkswagen;Lupo;2000;4-stars;NA;2-stars;NA;City and Supermini;NA
+Germany;Volkswagen;Sharan;1999;3-stars;NA;2-stars;NA;Large MPV;NA
+Germany;Volkswagen;Gold;1998;4-stars;NA;2-stars;NA;Small Family Car;NA
+Germany;Volkswagen;Passat;1997;3-stars;NA;2-stars;NA;Large Family Car;NA
+Germany;Volkswagen;Polo;1997;3-stars;NA;1-star;NA;City and Supermini;NA
+China;XPENG;G9;2023;85;85;78;78;Large SUV;5
+China;XPENG;P7;2023;87;81;81;78;Large Family Car;5
